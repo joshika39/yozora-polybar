@@ -2,6 +2,9 @@
 
 ## Add this to your wm startup file.
 
+
+export POLYBAR_HOME=~/.config/polybar
+
 # Terminate already running bar instances
 killall -q polybar
 
