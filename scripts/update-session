@@ -1,0 +1,2 @@
+title Updater
+launch sudo pacman -Syyu
